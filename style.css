@@ -9,6 +9,11 @@ body {
 
 h1 {
   font-size: 3rem;
+  background-color: aquamarine;
+}
+
+header {
+  border: solid black;
 }
 
 footer {
